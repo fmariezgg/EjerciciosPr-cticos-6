@@ -8,7 +8,7 @@ Proceso ejercicio1
 		Escribir "Ingrese el numero: ", i;
 		leer n;
 		total_suma<-total_suma+n;
-		i<-i+1;//incrementamos 
+		i<-i+1;
 	FinMientras
 	Escribir "La suma de los numeros es: ", total_suma;
 	
