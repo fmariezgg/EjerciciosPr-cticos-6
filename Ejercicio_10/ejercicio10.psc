@@ -7,7 +7,7 @@ Proceso ejercicio10
     Dimension matrizB[3, 3];
     Dimension resultado[3, 3];
 	
-    // Datos matriz A
+    // Datos matrizA
     Escribir "Matriz A: ";
     Para i<-0 Hasta 2 Con Paso 1 Hacer
         Para j<-0 Hasta 2 Con Paso 1 Hacer
@@ -16,7 +16,7 @@ Proceso ejercicio10
         FinPara
     FinPara
 	
-    // Salida matriz A
+    // Salida matrizA
     Escribir "Matriz A";
     Para i<-0 Hasta 2 Con Paso 1 Hacer
         Para j<-0 Hasta 2 Con Paso 1 Hacer
