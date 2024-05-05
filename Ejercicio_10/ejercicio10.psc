@@ -39,9 +39,6 @@ Definir i, j Como Entero;
 		FinPara
 		Escribir "";
 	FinPara
-	
-	
-
-	
+		
 	
 FinProceso
